@@ -1,0 +1,43 @@
+﻿timestamp,user_id,mood_text,comment,mood_label,mood_score,tags,language
+2025-11-21T18:27:34,honoka,happy,I'm dealing with chattomo PJ!,happy,2,general,en
+2025-11-22T18:28:39,honoka,疲れた,仕事でやる事多いわ,tired,-2,work,ja
+2025-11-23T18:36:45,honoka,anxious,あー疲れた。もうやめたいな、なにもかも,tired,-2,general,ja
+2025-11-24T18:46:01,honoka,neutral,I love Mcd,neutral,0,love,en
+2025-11-25T18:46:25,honoka,うれしい,今日の夕飯はマクドナルド,happy,2,general,ja
+2025-11-28T12:34:09,honoka,very_good,I'm doing great!,happy,2,general,en
+2025-12-01T08:12:05,honoka,tired,Meetings from early morning made me exhausted,tired,-2,work|people,en
+2025-12-02T21:47:18,honoka,anxious,I am worried about my future career abroad,anxious,-1,future,en
+2025-12-03T19:05:44,honoka,happy,Had a fun call with my friend and laughed a lot,happy,2,people|general,en
+2025-12-04T23:11:09,honoka,neutral,Today was just normal nothing special,neutral,0,general,en
+2025-12-05T07:58:32,honoka,tired,I slept very little and my body feels heavy,tired,-3,sleep|health,en
+2025-12-06T14:20:51,honoka,happy,Finished one big task for work and feel accomplished,happy,2,work,en
+2025-12-07T20:33:10,honoka,anxious,I feel nervous about my English level for interviews,anxious,-1,self-esteem|future,en
+2025-12-08T18:27:34,honoka,happy,I'm dealing with Chattomo PJ and it is really exciting,happy,2,work|future,en
+2025-12-09T22:14:03,honoka,tired,My brain is completely drained after debugging all day,tired,-2,work,en
+2025-12-10T09:03:27,honoka,neutral,Quiet day just did some small tasks and emails,neutral,0,work|general,en
+2025-12-11T21:55:49,honoka,happy,Had a cozy dinner with my family and felt warm,happy,3,people|love,en
+2025-12-12T16:41:12,honoka,anxious,Money is tight this month and it stresses me out,anxious,-2,money|future,en
+2025-12-13T10:18:36,honoka,happy,Study session went well and I understood a tough topic,happy,2,study|self-esteem,en
+2025-12-14T23:02:01,honoka,tired,Stayed up late watching videos now I regret it,tired,-1,sleep|general,en
+2025-12-15T19:29:55,honoka,neutral,Worked from home and the day passed quietly,neutral,1,work|sleep,en
+2025-12-16T08:45:22,honoka,anxious,I feel uneasy about my health and stomach pain today,anxious,-2,health,en
+2025-12-17T20:11:40,honoka,happy,Got a small compliment about my coding skills,happy,2,work|self-esteem,en
+2025-12-18T18:59:08,honoka,tired,Too many meetings and my social battery is empty,tired,-2,work|people,en
+2025-12-19T21:37:26,honoka,happy,Friday night chill time with good music feels great,happy,3,general,en
+2025-12-20T13:24:17,honoka,neutral,Did some cleaning and errands nothing emotional,neutral,0,general,en
+2025-12-21T17:50:03,honoka,anxious,I keep thinking what if my plans abroad fail,anxious,-1,future|self-esteem,en
+2025-12-22T07:39:44,honoka,tired,Woke up with a headache and feel worn out,tired,-3,health|sleep,en
+2025-12-23T15:02:58,honoka,happy,Had a productive study session at a cafe,happy,2,study|future,en
+2025-12-24T22:18:29,honoka,happy,Christmas cake time with my family made me smile,happy,3,people|love,en
+2025-12-25T20:05:13,honoka,neutral,Party was okay but I feel a bit empty afterward,neutral,0,people|general,en
+2025-12-26T11:47:31,honoka,tired,Year end tasks at work are piling up and I am tired,tired,-2,work,en
+2025-12-27T16:33:02,honoka,happy,Finished updating my portfolio and feel proud,happy,2,work|self-esteem|future,en
+2025-12-28T09:12:46,honoka,anxious,I am scared about leaving my comfort zone next year,anxious,-1,future,en
+2025-12-29T19:56:20,honoka,happy,Long bath and relaxing time helped me recharge,happy,2,health|sleep,en
+2025-12-30T23:21:55,honoka,neutral,Looking back on this month with a calm feeling,neutral,1,future|general,en
+2025-12-31T21:45:07,honoka,happy,Grateful I survived this year and still have dreams,happy,3,future|self-esteem|general,en
+,,,,,,,
+,,,,,,,
+,,,,,,,
+2025-12-30T15:16:17,honoka,very_good,"I studied English a lot today, so I felt satisfied",neutral,0,general,en
+2025-12-30T15:16:57,honoka,very_good,"I feel tired, I worked a lot",tired,-2,work|sleep,en
