@@ -32,10 +32,10 @@ Everything runs **locally + free** to demonstrate real engineering skills.
 ## 📊 Power BI Dashboards
 ### 1. Daily Dashboard
 
-Purpose：
+**Purpose**：
 Provide a clear snapshot of today’s emotional state.
 
-Highlights
+**Highlights**
 
 - Automatically displays today’s entry using DAX logic
 
@@ -49,10 +49,10 @@ Highlights
 
 ### 2. Topic Analysis
 
-Purpose：
+**Purpose**：
 Understand emotional patterns by analyzing tag frequency and mood scores.
 
-Highlights
+**Highlights**
 
 - Horizontal bar chart shows tag frequency
 
@@ -66,10 +66,10 @@ Highlights
 
 ### 3. Mood Trend
 
-Purpose：
+**Purpose**：
 Track mood fluctuations over the recent period.
 
-Highlights
+**Highlights**
 
 - Default view fixed to last 30 days for clarity
 
