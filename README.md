@@ -20,19 +20,19 @@ Everything runs **locally + free** to demonstrate real engineering skills.
 ---
 
 ## ✨ Key Features
-- ✔️ English & Japanese mood detection
-- ✔️ Mood score (-3 ~ +3)
-- ✔️ Emotional tagging (work / sleep / people / love / future …)
-- ✔️ CSV logging
-- ✔️ Power BI dashboards
-- ✔️ Designed for portfolio & interview demonstration
+-  English & Japanese mood detection
+-  Mood score (-3 ~ +3)
+-  Emotional tagging (work / sleep / people / love / future …)
+-  CSV logging
+-  Power BI dashboards
+-  Designed for portfolio & interview demonstration
 
 ---
 
 ## 📊 Power BI Dashboards
 ### 1. Daily Dashboard
 
-Purpose
+Purpose：
 Provide a clear snapshot of today’s emotional state.
 
 Highlights
@@ -49,7 +49,7 @@ Highlights
 
 ### 2. Topic Analysis
 
-Purpose
+Purpose：
 Understand emotional patterns by analyzing tag frequency and mood scores.
 
 Highlights
@@ -66,7 +66,7 @@ Highlights
 
 ### 3. Mood Trend
 
-Purpose
+Purpose：
 Track mood fluctuations over the recent period.
 
 Highlights
