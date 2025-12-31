@@ -1,4 +1,4 @@
-# 🧠 Chattomo Mini – 可視化する心 × Python AI × Power Platform
+# 🧠 Chattomo Mini – Visualizing the Heart × Python AI × Power Platform
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
