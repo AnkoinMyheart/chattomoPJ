@@ -31,7 +31,7 @@ Everything runs **locally + free** to demonstrate real engineering skills.
 
 ## 📊 Power BI Dashboards
 ### 1. Daily Dashboard
-
+<img width="1149" height="863" alt="Image" src="https://github.com/user-attachments/assets/931ed75f-243c-407e-8ff1-8b09545e0394" />
 **Purpose**：
 Provide a clear snapshot of today’s emotional state.
 
@@ -48,7 +48,7 @@ Provide a clear snapshot of today’s emotional state.
 - Uses calculated columns (DateOnly, MoodScoreToday, MoodSummary)
 
 ### 2. Topic Analysis
-
+<img width="1151" height="856" alt="Image" src="https://github.com/user-attachments/assets/00409ab9-9e3a-4666-bf5f-a3e9adabb648" />
 **Purpose**：
 Understand emotional patterns by analyzing tag frequency and mood scores.
 
@@ -65,7 +65,7 @@ Understand emotional patterns by analyzing tag frequency and mood scores.
 - Useful for identifying emotional triggers and main focus areas
 
 ### 3. Mood Trend
-
+<img width="1150" height="861" alt="Image" src="https://github.com/user-attachments/assets/598bc069-31f0-430e-813e-64f216bc6a50" />
 **Purpose**：
 Track mood fluctuations over the recent period.
 
