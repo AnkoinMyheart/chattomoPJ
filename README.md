@@ -49,7 +49,7 @@ Provide a clear snapshot of today’s emotional state.
 - Uses calculated columns (DateOnly, MoodScoreToday, MoodSummary)
 
 ### 2. Topic Analysis
-<img width="1151" height="856" alt="Image" src="https://github.com/user-attachments/assets/00409ab9-9e3a-4666-bf5f-a3e9adabb648" />
+<img width="1148" height="855" alt="Image" src="https://github.com/user-attachments/assets/beb9454c-adb4-4ca4-980f-4cfc389b2f15" />
 
 **Purpose**：
 Understand emotional patterns by analyzing tag frequency and mood scores.
