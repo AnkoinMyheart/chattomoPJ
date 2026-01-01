@@ -32,7 +32,8 @@ Everything runs **locally + free** to demonstrate real engineering skills.
 
 The Chattomo Mini ecosystem is built using a lightweight but fully functional architecture:
 
-<img width="1091" height="540" alt="Image" src="https://github.com/user-attachments/assets/4e562dd8-13aa-4069-8253-a9d1243ab87a" />
+![architecture](./images/architecture.png)
+
 
 **Flow:**
 
