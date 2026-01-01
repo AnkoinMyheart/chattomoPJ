@@ -106,7 +106,7 @@ POST /analyze
 {
   "mood_text": "happy",
   "comment": "Great day today!",
-  "user_id": "honoka"
+  "user_id": "Anko"
 }
 
 {
