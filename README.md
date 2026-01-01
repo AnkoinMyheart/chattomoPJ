@@ -35,8 +35,12 @@ Everything runs **locally + free** to demonstrate real engineering skills.
 <img width="1144" height="855" alt="Image" src="https://github.com/user-attachments/assets/86482bf8-b55f-460b-97e9-43f3f2eb3fa7" />
 
 **Purpose**：
+<img width="1144" height="855" alt="Image" src="https://github.com/user-attachments/assets/86482bf8-b55f-460b-97e9-43f3f2eb3fa7" />
+
+**Purpose**：
 Provide a clear snapshot of today’s emotional state.
 
+**Highlights**
 **Highlights**
 
 - Automatically displays today’s entry using DAX logic
@@ -54,8 +58,14 @@ Provide a clear snapshot of today’s emotional state.
 <img width="1148" height="855" alt="Image" src="https://github.com/user-attachments/assets/beb9454c-adb4-4ca4-980f-4cfc389b2f15" />
 
 **Purpose**：
+### 2. Mood Trend
+
+<img width="1148" height="855" alt="Image" src="https://github.com/user-attachments/assets/beb9454c-adb4-4ca4-980f-4cfc389b2f15" />
+
+**Purpose**：
 Track mood fluctuations over the recent period.
 
+**Highlights**
 **Highlights**
 
 - Default view fixed to last 30 days for clarity
@@ -67,27 +77,6 @@ Track mood fluctuations over the recent period.
 - Average score card summarizes overall trend
 
 - DateOnly column ensures clean, chronological X-axis
-
-
-### 3. Topic Analysis
-
-<img width="1146" height="860" alt="Image" src="https://github.com/user-attachments/assets/b5e06a2e-16d9-4fa8-9af4-cbb436caf8f1" />
-
-**Purpose**：
-Understand emotional patterns by analyzing tag frequency and mood scores.
-
-**Highlights**
-
-- Horizontal bar chart shows tag frequency
-
-- Heatmap visualizes tag × mood_score relationships
-
-- Dynamic Top 3 Tags extracted with RANKX
-
-- Aggregations and color logic handled in DAX
-
-- Useful for identifying emotional triggers and main focus areas
-
 
 
 ---
