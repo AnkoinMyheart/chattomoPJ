@@ -32,11 +32,9 @@ Everything runs **locally + free** to demonstrate real engineering skills.
 
 The Chattomo Mini ecosystem is built using a lightweight but fully functional architecture:
 
-![architecture](images/architecture.png)
-
+<img width="1091" height="540" alt="Image" src="https://github.com/user-attachments/assets/4e562dd8-13aa-4069-8253-a9d1243ab87a" />
 
 **Flow:**
-
 
 1. **Power Automate**  
    - Sends daily reminder emails for mood input
@@ -68,7 +66,7 @@ The Chattomo Mini ecosystem is built using a lightweight but fully functional ar
 ### 1. Daily Dashboard
 <img width="1144" height="855" alt="Image" src="https://github.com/user-attachments/assets/86482bf8-b55f-460b-97e9-43f3f2eb3fa7" />
 
-**Purpose**：
+**Purpose**:
 Provide a clear snapshot of today’s emotional state.
 
 **Highlights**
@@ -81,7 +79,7 @@ Provide a clear snapshot of today’s emotional state.
 ### 2. Mood Trend
 <img width="1148" height="855" alt="Image" src="https://github.com/user-attachments/assets/beb9454c-adb4-4ca4-980f-4cfc389b2f15" />
 
-**Purpose**：
+**Purpose**:
 Track mood fluctuations over the recent period.
 
 **Highlights**
@@ -91,10 +89,10 @@ Track mood fluctuations over the recent period.
 - Average score card summarizes overall trend
 - DateOnly column ensures clean, chronological X-axis
 
-### 3. Mood Trend
+### 3. Topic Analysis
 <img width="1146" height="860" alt="Image" src="https://github.com/user-attachments/assets/a3d0d342-b9b5-4636-885d-e14700d6837a" />
 
-**Purpose**：
+**Purpose**:
 Track mood fluctuations over the recent period.
 
 **Highlights**
@@ -114,7 +112,9 @@ Track mood fluctuations over the recent period.
 
 ---
 
-## 🧪 API Example
+##  API Example
+Below is a simple request/response example.
+
 ```json
 POST /analyze
 {
