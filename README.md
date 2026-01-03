@@ -91,7 +91,6 @@ Track mood fluctuations over the recent period.
 - DateOnly column ensures clean, chronological X-axis
 
 ### 3. Topic Analysis
-<img width="1146" height="860" alt="Image" src="https://github.com/user-attachments/assets/a3d0d342-b9b5-4636-885d-e14700d6837a" />
 
 ![architecture](./images/3. Topic analysis.png)
 
