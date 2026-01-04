@@ -37,28 +37,34 @@ The Chattomo Mini ecosystem is built using a lightweight but fully functional ar
 
 **Flow:**
 
-1. **Power Automate**  
-   - Sends daily reminder emails for mood input
+1. **Power Automate (Reminder)**  
+   - Sends daily reminder emails to encourage mood input
 
 
 2. **Power Apps**  
-   - Mood input UI  
-   - Displays Chattomo responses  
-   - Shows a Power BI dashboard
+   - Provides the mood input UI  
+   - Displays responses returned from Chattomo  
+   - Allows users to view Power BI dashboards (optional)
 
 
-3. **FastAPI**  
-   - Acts as API gateway  
-   - Sends user input to the Python emotion engine  
-   - Returns mood score + analysis
+3. **Power Automate (Orchestration)**  
+   - Receives input from Power Apps  
+   - Sends HTTP requests to the FastAPI backend  
+   - Returns analysis results back to Power Apps
 
 
-4. **CSV Storage**  
-   - Stores logs  
-   - Serves as data source for Power BI
+4. **FastAPI (Python Backend)**  
+   - Acts as the API layer  
+   - Processes mood input using Python logic  
+   - Returns mood label, mood score, and response text
 
 
-5. **Power BI**  
+5. **CSV Storage**  
+   - Stores mood logs  
+   - Serves as the data source for Power BI
+
+
+6. **Power BI**  
    - Visualizes moods and emotional trends
 
 ---
