@@ -39,29 +39,24 @@ The Chattomo Mini ecosystem is built using a lightweight but fully functional ar
 1. **Power Automate (Reminder)**  
    - Sends daily reminder emails to encourage mood input
 
-
 2. **Power Apps**  
    - Provides the mood input UI  
    - Displays responses returned from Chattomo  
    - Allows users to view Power BI dashboards (optional)
-
 
 3. **Power Automate (Orchestration)**  
    - Receives input from Power Apps  
    - Sends HTTP requests to the FastAPI backend  
    - Returns analysis results back to Power Apps
 
-
 4. **FastAPI (Python Backend)**  
    - Acts as the API layer  
    - Processes mood input using Python logic  
    - Returns mood label, mood score, and response text
 
-
 5. **CSV Storage**  
    - Stores mood logs  
    - Serves as the data source for Power BI
-
 
 6. **Power BI**  
    - Visualizes moods and emotional trends
@@ -69,17 +64,23 @@ The Chattomo Mini ecosystem is built using a lightweight but fully functional ar
 ---
 
 ##  Power Apps (User Interface)
-
 ![PowerApps](./images/apps.png)
 
+**Purpose**:
+Power Apps serves as the primary user interface for Chattomo Mini.
+Users select their current mood and optionally describe their day in free text.
 
-> Note:  
-> In this prototype, the Power Apps UI focuses on user experience and system flow.  
-> The actual response logic is continuously refined based on psychological principles
-> and real-world feedback, and will be demonstrated in the demo video.
+The app focuses on a simple, emotionally safe interaction flow,
+allowing users to express themselves without pressure or complex input requirements.
 
-In a production environment, this dashboard would be published to Power BI Service and embedded directly into the app.
-For this portfolio demo, Power BI Desktop is used to demonstrate analytics capabilities.
+The UI itself is intentionally lightweight — its main role is to act as an entry point
+to the underlying analysis pipeline and to display Chattomo’s responses in a calm,
+non-intrusive way.
+
+> Note:
+> In this portfolio prototype, Power BI Desktop is used to demonstrate analytics capabilities.
+> In a production environment, the dashboard would be published to Power BI Service
+> and embedded directly into the app.
 
 
 ##  Power BI Dashboards
