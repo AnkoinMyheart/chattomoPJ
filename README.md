@@ -82,6 +82,39 @@ non-intrusive way.
 > In a production environment, the dashboard would be published to Power BI Service
 > and embedded directly into the app.
 
+---
+
+##  Python Analysis Logic
+
+Chattomo Mini’s core analysis is implemented in Python and designed
+to prioritize emotional safety over aggressive classification.
+
+### Design Principles
+- No external AI or LLM APIs
+- Rule-based + lightweight NLP
+- Emotion-first, not sentiment-score-first
+- Responses designed to avoid judgment or pressure
+
+### Mood Scoring
+- Mood values are mapped to a simple numeric range (-3 to +3)
+- Scores represent **emotional direction**, not mental health diagnosis
+
+### Tag Detection
+- Keyword-based topic tagging (work, sleep, people, future, etc.)
+- Supports both English and Japanese input
+- Tags are used for trend analysis in Power BI, not for response bias
+
+### Response Strategy
+- Responses follow a **reflect → validate → invite** pattern
+- Inspired by basic counseling and active listening techniques
+- Logic is continuously refined based on psychological study
+  and feedback from a counseling professional (informal review)
+
+> Note:
+> This project does not aim to replace professional mental health support.
+> It is designed as a gentle daily reflection tool.
+
+---
 
 ##  Power BI Dashboards
 ### 1. Daily Dashboard
@@ -126,16 +159,6 @@ Track mood fluctuations over the recent period.
 
 ---
 
-##  Tech Stack
-- Python 3.10
-- Power Apps
-- Power Automate
-- Power BI Desktop
-- FastAPI
-- CSV storage
-
----
-
 ##  API Example
 Below is a simple request/response example.
 
@@ -153,3 +176,13 @@ POST /analyze
   "tags": ["general"],
   "comment": "Love this mood! ..."
 }
+
+---
+
+##  Tech Stack
+- Python 3.10
+- Power Apps
+- Power Automate
+- Power BI Desktop
+- FastAPI
+- CSV storage
