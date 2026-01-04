@@ -8,11 +8,11 @@ import csv
 app = FastAPI(title="Chattomo Mini API", version="0.2")
 
 class MoodEnum(str, Enum):
-    very_good = "very_good"
-    good = "good"
-    ok = "ok"
-    tired = "tired"
-    bad = "bad"
+    very_good = "Very good!"
+    good = "Good"
+    ok = "Ok"
+    tired = "Tired"
+    bad = "Bad"
 
 # ログを保存するCSVファイルのパス
 LOG_PATH = Path("chattomo_logs.csv")
