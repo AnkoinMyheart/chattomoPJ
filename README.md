@@ -166,16 +166,18 @@ Below is a simple request/response example.
 POST /analyze
 {
   "mood_text": "happy",
-  "comment": "Great day today!",
+  "comment": "Grateful I survived this year and still have dreams!",
   "user_id": "Anko"
 }
 
 {
   "mood_label": "happy",
-  "mood_score": 2,
+  "mood_score": 3,
   "tags": ["general"],
-  "comment": "Love this mood! ..."
+  "reply_text": "That’s a powerful place・・・"
+"
 }
+```
 
 ---
 
