@@ -34,7 +34,6 @@ The Chattomo Mini ecosystem is built using a lightweight but fully functional ar
 
 ![architecture](./images/architecture.png)
 
-
 **Flow:**
 
 1. **Power Automate (Reminder)**  
@@ -68,6 +67,20 @@ The Chattomo Mini ecosystem is built using a lightweight but fully functional ar
    - Visualizes moods and emotional trends
 
 ---
+
+##  Power Apps (User Interface)
+
+![PowerApps](./images/apps.png)
+
+
+> Note:  
+> In this prototype, the Power Apps UI focuses on user experience and system flow.  
+> The actual response logic is continuously refined based on psychological principles
+> and real-world feedback, and will be demonstrated in the demo video.
+
+In a production environment, this dashboard would be published to Power BI Service and embedded directly into the app.
+For this portfolio demo, Power BI Desktop is used to demonstrate analytics capabilities.
+
 
 ##  Power BI Dashboards
 ### 1. Daily Dashboard
@@ -114,9 +127,11 @@ Track mood fluctuations over the recent period.
 
 ##  Tech Stack
 - Python 3.10
+- Power Apps
+- Power Automate
+- Power BI Desktop
 - FastAPI
 - CSV storage
-- Power BI Desktop
 
 ---
 
