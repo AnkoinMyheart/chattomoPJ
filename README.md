@@ -65,7 +65,7 @@ The Chattomo Mini ecosystem is built using a lightweight but fully functional ar
 
 ##  Power BI Dashboards
 ### 1. Daily Dashboard
-![PowerBI-Daily](./images/1.Todays Feeling.png)
+![PowerBI-Daily](./images/TodaysFeeling.png)
 
 **Purpose**:
 Provide a clear snapshot of today’s emotional state.
@@ -78,7 +78,7 @@ Provide a clear snapshot of today’s emotional state.
 - Uses calculated columns (DateOnly, MoodScoreToday, MoodSummary)
 
 ### 2. Mood Trend
-![PowerBI-Trend](./images/2.Mood Trend.png)
+![PowerBI-Trend](./images/MoodTrend.png)
 
 **Purpose**:
 Track mood fluctuations over the recent period.
@@ -92,7 +92,7 @@ Track mood fluctuations over the recent period.
 
 ### 3. Topic Analysis
 
-![PowerBI-Analysis](./images/3.Topic analysis.png)
+![PowerBI-Analysis](./images/TopicAnalysis.png)
 
 **Purpose**:
 Track mood fluctuations over the recent period.
