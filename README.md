@@ -64,7 +64,7 @@ The Chattomo Mini ecosystem is built using a lightweight but fully functional ar
 ---
 
 ##  Power Apps (User Interface)
-![PowerApps](./images/apps.png)
+<img src="./images/apps.png" width="700">
 
 **Purpose**:
 Power Apps serves as the primary user interface for Chattomo Mini.
@@ -132,7 +132,7 @@ Provide a clear snapshot of today’s emotional state.
 - Uses calculated columns (DateOnly, MoodScoreToday, MoodSummary)
 
 ### 2. Mood Trend
-![PowerBI-Trend](./images/MoodTrend.png)
+<img src="./images/MoodTrend.png" width="700">
 
 **Purpose**:
 Track mood fluctuations over the recent period.
@@ -145,8 +145,7 @@ Track mood fluctuations over the recent period.
 - DateOnly column ensures clean, chronological X-axis
 
 ### 3. Topic Analysis
-
-![PowerBI-Analysis](./images/TopicAnalysis.png)
+<img src="./images/TopicAnalysis.png" width="700">
 
 **Purpose**:
 Track mood fluctuations over the recent period.
