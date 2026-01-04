@@ -118,7 +118,8 @@ to prioritize emotional safety over aggressive classification.
 
 ##  Power BI Dashboards
 ### 1. Daily Dashboard
-![PowerBI-Daily](./images/TodaysFeeling.png)
+<img src="./images/TodaysFeeling.png" width="700">
+
 
 **Purpose**:
 Provide a clear snapshot of today’s emotional state.
@@ -175,7 +176,7 @@ POST /analyze
   "mood_score": 3,
   "tags": ["general"],
   "reply_text": "That’s a powerful place・・・"
-"
+
 }
 ```
 
