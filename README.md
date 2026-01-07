@@ -28,7 +28,7 @@ Everything runs **locally + free** to demonstrate real engineering skills.
 -  Designed for portfolio & interview demonstration
 
 ---
-##Demo Video
+##  Demo Video
 Watch the full demo here:
 [![Chattomo Mini Demo](./images/demo_thumnail.png)]https://youtu.be/woQk0663O2U
 
