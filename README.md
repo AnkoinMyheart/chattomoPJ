@@ -29,8 +29,8 @@ Everything runs **locally + free** to demonstrate real engineering skills.
 
 ---
 ##  Demo Video
-Watch the full demo here:
-[![Chattomo Mini Demo](./images/demo_thumnail.png)]https://youtu.be/woQk0663O2U
+Watch the full demo here: https://youtu.be/woQk0663O2U
+[![Chattomo Mini Demo](./images/demo_thumnail.png)]
 
 ---
 ##  System Architecture
