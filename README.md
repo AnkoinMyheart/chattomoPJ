@@ -28,8 +28,8 @@ Everything runs **locally + free** to demonstrate real engineering skills.
 -  Designed for portfolio & interview demonstration
 
 ---
-##  Demo Video
-Watch the full demo here: https://youtu.be/woQk0663O2U
+## 🎥 Demo Video  
+👉 Watch the demo [here](https://youtu.be/woQk0663O2U)
 <img src="./images/demo_thumnail.png" width="700">
 
 ---
