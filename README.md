@@ -5,12 +5,13 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-Analytics-yellow)
 ![Status](https://img.shields.io/badge/Status-Development-orange)
 
+---
 🇯🇵 **日本語版ポートフォリオはこちら**
 ➡️ https://app.notion.com/p/23f0506c1dc680f4b3f4fa0ab361ed0d?source=copy_link
 
 🇺🇸 **English Portfolio**
 ➡️ https://app.notion.com/p/Portfolio-3ab0506c1dc68003b7cff00d35ae1ab7?source=copy_link
----
+
 
 ##  Overview
 Chattomo Mini is a **lightweight emotional-support AI assistant** that:
